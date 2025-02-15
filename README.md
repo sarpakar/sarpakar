@@ -28,14 +28,12 @@ Bridging the gap between healthcare innovation and data science. Currently build
 - Professional Culinary Training Institute of Culinary Education
 
 ## 🔭 Professional Experience
-- **Current:** Medical AI Entrepreneur & Data Scientist
+- **Current:** Third Year Data Science Student at Eindhoven University of Technology
 - **Previous:** Chef in Two Michelin Star Restaurant in New York City
 - **Academic:** Research in Healthcare Data Analytics
 
 ## 📫 Let's Connect
-- [LinkedIn](https://linkedin.com/in/sarpakar)
-- [Twitter](https://twitter.com/sarpakar)
-- [Personal Website](https://sarpakar.com)
+- [LinkedIn](https://www.linkedin.com/in/sarp-akar-a607411b4/)
 
 ## 💡 Fun Fact
 From crafting perfect plates to crafting algorithms - I bring the precision and creativity of a chef's mindset to data science and AI development.
