@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Sarp Akar
 
-<!--
-**sarpakar/sarpakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist | Medical AI | Former NYC Chef
 
-Here are some ideas to get you started:
+## About Me
+Bridging the gap between healthcare innovation and data science. Currently building AI solutions in the medical field while drawing on my unique background in culinary arts and formal education in Data Science from TU Eindhoven.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- Developing medical AI solutions to improve healthcare outcomes
+- Exploring the intersection of machine learning and clinical decision support
+- Building scalable data pipelines for healthcare applications
+
+## 🛠 Tech Stack
+- **Languages:** Python, R, SQL
+- **ML/AI:** PyTorch, TensorFlow, scikit-learn
+- **Data Processing:** Pandas, NumPy, Apache Spark
+- **Cloud:** AWS, GCP
+- **DevOps:** Docker, Git, CI/CD
+- **Visualization:** Matplotlib, Seaborn, Plotly
+
+## 🎓 Education
+- Bachelor's in Data Science - Technical University of Eindhoven
+- Professional Culinary Training Institute of Culinary Education
+
+## 🔭 Professional Experience
+- **Current:** Medical AI Entrepreneur & Data Scientist
+- **Previous:** Chef in Two Michelin Star Restaurant in New York City
+- **Academic:** Research in Healthcare Data Analytics
+
+## 📫 Let's Connect
+- [LinkedIn](https://linkedin.com/in/sarpakar)
+- [Twitter](https://twitter.com/sarpakar)
+- [Personal Website](https://sarpakar.com)
+
+## 💡 Fun Fact
+From crafting perfect plates to crafting algorithms - I bring the precision and creativity of a chef's mindset to data science and AI development.
+
+---
+*"Where culinary arts meet data science, innovation happens."*
