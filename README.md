@@ -35,8 +35,4 @@ Bridging the gap between healthcare innovation and data science. Currently build
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/sarp-akar-a607411b4/)
 
-## 💡 Fun Fact
-From crafting perfect plates to crafting algorithms - I bring the precision and creativity of a chef's mindset to data science and AI development.
 
----
-*"Where culinary arts meet data science, innovation happens."*
