@@ -7,17 +7,22 @@ Bridging the gap between healthcare innovation and data science. Currently build
 
 ## 🚀 Current Focus
 - Developing medical AI solutions to improve healthcare outcomes
-- Exploring the intersection of machine learning and clinical decision support
-- Building scalable data pipelines for healthcare applications
-
+- Currently wokring on my bachelro thsesis foucssing on coronary segmentation in X-ray angiography
 ## 🛠 Tech Stack
-- **Languages:** Python, R, SQL
-- **ML/AI:** PyTorch, TensorFlow, scikit-learn
-- **Data Processing:** Pandas, NumPy, Apache Spark
-- **Cloud:** AWS, GCP
-- **DevOps:** Docker, Git, CI/CD
-- **Visualization:** Matplotlib, Seaborn, Plotly
 
+- **Languages:** Python, R, SQL, JavaScript
+  
+- **ML/AI:** PyTorch, TensorFlow, scikit-learn, Keras
+
+- **Data Processing:** Pandas, NumPy, Apache Spark, Dask
+
+- **Cloud & Backend:** AWS, GCP, Firebase (Auth, Database, Functions)
+
+- **DevOps:** Docker, Git, CI/CD, Jenkins, Kubernetes
+
+- **Visualization:** Matplotlib, Seaborn, Plotly, Tableau, D3.js
+
+- **Big Data:** Hadoop, Apache Kafka, Apache Airflow
 ## 🎓 Education
 - Bachelor's in Data Science - Technical University of Eindhoven
 - Professional Culinary Training Institute of Culinary Education
