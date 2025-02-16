@@ -7,7 +7,7 @@ Bridging the gap between healthcare innovation and data science. Currently build
 
 ## 🚀 Current Focus
 - Developing medical AI solutions to improve healthcare outcomes
-- Currently wokring on my bachelro thsesis foucssing on coronary segmentation in X-ray angiography
+- Currently wokring on my bachelro thesis foucssing on coronary segmentation in X-ray angiography
 ## 🛠 Tech Stack
 
 - **Languages:** Python, R, SQL, JavaScript
