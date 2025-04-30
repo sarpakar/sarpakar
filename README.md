@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Sarp Akar
 
-Data Scientist | Medical AI | Former NYC Chef
 
 ## About Me
 Bridging the gap between healthcare innovation and data science. Currently building AI solutions in the medical field while drawing on my unique background in culinary arts and formal education in Data Science from TU Eindhoven.
