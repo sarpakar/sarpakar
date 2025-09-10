@@ -19,7 +19,6 @@ Bridging the gap between healthcare innovation and data science. Currently build
 
 - **Visualization:** Matplotlib, Seaborn, Plotly, Tableau
 
-- **Big Data:** Hadoop, Apache Kafka, Apache Airflow
 ## 🎓 Education
 - Bachelor's in Data Science - Technical University of Eindhoven
 - Professional Culinary Training Institute of Culinary Education
