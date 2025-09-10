@@ -13,13 +13,11 @@ Bridging the gap between healthcare innovation and data science. Currently build
   
 - **ML/AI:** PyTorch, TensorFlow, scikit-learn, Keras
 
-- **Data Processing:** Pandas, NumPy, Apache Spark, Dask
+- **Data Processing:** Pandas, NumPy
 
 - **Cloud & Backend:** AWS, GCP, Firebase (Auth, Database, Functions)
 
-- **DevOps:** Docker, Git, CI/CD, Jenkins, Kubernetes
-
-- **Visualization:** Matplotlib, Seaborn, Plotly, Tableau, D3.js
+- **Visualization:** Matplotlib, Seaborn, Plotly, Tableau
 
 - **Big Data:** Hadoop, Apache Kafka, Apache Airflow
 ## 🎓 Education
